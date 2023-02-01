@@ -80,3 +80,4 @@ Monitor your application's health using SmallRye Health
 
 [Related guide section...](https://quarkus.io/guides/smallrye-health)
 # quick-openshift-kogito
+# quick-openshift-kogito
